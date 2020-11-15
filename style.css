@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+marquee {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: gray;
+    color: purple;
+}
+
+#contac {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
